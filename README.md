@@ -89,8 +89,7 @@ endmodule
 
 
 **RTL**
-<img width="826" height="374" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/109b1bb5-e49a-44ad-bb2b-51dbf17a03c9" />
-
+<img width="1857" height="848" alt="de1" src="https://github.com/user-attachments/assets/e992f412-89e7-4748-821d-09d39cba9f08" />
 
 **Result:**
 The basic logic gates are studied and the truth tables are verified
